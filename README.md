@@ -1,6 +1,6 @@
 # Package-Spring-Dependencies
 
-To package all dependencies into one jar file just run inside folder(where pom.xml file exists)<br>:
+To package all dependencies into one jar file just run inside folder(where pom.xml file exists):<br>
     `mvn package`
     the jar will be generated into a new folder called `target` <br>
 To launch the jar : <br>
